@@ -1,4 +1,4 @@
-Magneticoin integration/staging tree
+Magneticoin SHA256 MGC
 ================================
 1% - 8.8 MILLION MGC reward users for finding the block for pools
 
@@ -12,7 +12,7 @@ Block halving rate
 220000
 Maximum coins: 880.000.000
 RPC Port number: 9336
-Premine 2 %
+
 
 Wallet WIN
 
