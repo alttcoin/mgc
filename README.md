@@ -1,7 +1,53 @@
 Magneticoin integration/staging tree
 ================================
+1% - 8.8 MILLION MGC reward users for finding the block for pools
 
-http://www.coingen.io
+Proof of Work Algortthm
+SHA256
+Block Rate (in seconds)
+60
+Initial value per block
+2000
+Block halving rate
+220000
+Maximum coins: 880.000.000
+RPC Port number: 9336
+Premine 2 %
+
+Wallet WIN
+
+http://www.mediafire.com/download/wu79bxau9t64d93/Magneticoin_MGC_Windows.rar
+
+Wallet Linux
+
+http://www.mediafire.com/download/cq1m69qf7w1chqw/linux_Magneticoin_MGC.rar
+
+Source code:
+
+http://www.mediafire.com/download/qlj30r1y0mb3458/MGC_magneticoin-src.rar
+
+POOLS
+
+1.http://mgc.crypto-coinz.com
+2.https://mgc.hardcoreminers.com
+3.http://79.188.191.67/public
+4.http://mgc.hashhot.com
+5.http://mgc.520cn.com/
+
+Exchange
+
+MGC Voting on Mintpal https://www.mintpal.com/voting
+VOTE www.cryptoaltex.com/index.php?page=newcoin
+VOTE https://www.swaphole.com/  MGC MAGNETICOIN
+
+Other
+
+http://cryptotop.com/
+
+Website
+
+www.magneticoin.net
+
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
