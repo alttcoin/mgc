@@ -37,13 +37,19 @@ POOLS
 Exchange
 
 https://www.cryptoaltex.com/index.php?page=trade&market=BTC&coin=MGC
+
 https://www.cryptoaltex.com/index.php?page=trade&market=DGC&coin=MGC
+
 https://www.cryptoaltex.com/index.php?page=trade&market=LTC&coin=MGC
+
 
 MGC/BTC and MGC/LTC on https://www.swaphole.com/
 
+
 VOTE
-MGC Voting on Mintpal https://www.mintpal.com/voting
+MGC Voting on Mintpal 
+https://www.mintpal.com/voting
+
 https://coin-swap.net/newcoin MGC
 
 
