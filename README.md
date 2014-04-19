@@ -42,15 +42,21 @@ https://www.cryptoaltex.com/index.php?page=trade&market=DGC&coin=MGC
 
 https://www.cryptoaltex.com/index.php?page=trade&market=LTC&coin=MGC
 
-
 MGC/BTC and MGC/LTC on https://www.swaphole.com/
 
+https://www.allcrypt.com/market?id=609
 
 VOTE
-MGC Voting on Mintpal 
-https://www.mintpal.com/voting
+
+MGC Voting on Mintpal https://www.mintpal.com/voting
 
 https://coin-swap.net/newcoin MGC
+
+https://c-cex.com/?id=vote
+
+https://comkort.com/vote/#MGC
+
+https://www.swisscex.com/voting
 
 
 Other
@@ -72,9 +78,6 @@ anyone, anywhere in the world. Magneticoin uses peer-to-peer technology to opera
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Magneticoin is also the name of the open source
 software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Magneticoin client software, see http://www.coingen.io.
 
 License
 -------
